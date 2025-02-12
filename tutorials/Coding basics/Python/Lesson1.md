@@ -47,14 +47,14 @@ For example I would like to print numbers from 1 to 10 into the console. I can d
       print(“9”)
       print(“10”)
       ```    
-but not so efficient, if I would like to print it from 1 to 10 000 right? So need to find a lazy solution:
+   but not so efficient, if I would like to print it from 1 to 10 000 right? So need to find a lazy solution:
 
       ```python
       for i in range(10):
           print(i+1)
       ``` 
-Which says: go through the numbers 10 times start from 1
-(this can be weird first, in a list the first index is 0 not 1. in case you write print (i) it will list numbers between 0-9.
+   Which says: go through the numbers 10 times start from 1
+   (this can be weird first, in a list the first index is 0 not 1. in case you write print (i) it will list numbers between 0-9.
 
 [Here](https://www.programiz.com/python-programming/online-compiler/) you can check your first coding skills. Save it for later, so you can practice coding, without any necessary IDE or python installation.
 
