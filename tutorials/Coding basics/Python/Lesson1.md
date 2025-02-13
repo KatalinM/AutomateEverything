@@ -35,37 +35,37 @@ You loved the logic theme in High School? Great, because this is the base of all
 3. Iteration (loops):
 Loops enable the repetition of certain tasks until a condition is met. This helps in automating repetitive tasks and managing data efficiently.
 For example I would like to print numbers from 1 to 10 into the console. I can do this like:
-
-print(“1”)
-print(“2”)
-print(“3”)
-print(“4”)
-print(“5”)
-print(“6”)
-print(“7”)
-print(“8”)
-print(“9”)
-print(“10”)
+    ```python
+    print(“1”)
+    print(“2”)
+    print(“3”)
+    print(“4”)
+    print(“5”)
+    print(“6”)
+    print(“7”)
+    print(“8”)
+    print(“9”)
+    print(“10”)
+    ```
 
 but not so efficient, if I would like to print it from 1 to 10 000 right? So need to find a lazy solution:
 
-
-for i in range(10):
-    print(i+1)
-
-# says: go through the numbers 10 times start from 1
-(this can be weird first, in a list the first index is 0 not 1. in case you write print (i) it will list numbers between 0-9.
+    ```python
+    for i in range(10):
+        print(i+1)
+    ```
+<em> says: go through the numbers 10 times start from 1
+(this can be weird first, in a list the first index is 0 not 1. in case you write print (i) it will list numbers between 0-9. Try out if you print i instead of i+1</em>
 
 [Here](https://www.programiz.com/python-programming/online-compiler/) you can check your first coding skills. Save it for later, so you can practice coding, without any necessary IDE or python installation.
 
 Lets practice a little!
 
 In coding you will use variables all the time. What is a variable?
-Variable is something which is phrased in English and has a meaning for you and anyone how reads the code later, and can find out what the hell is going on, and has a value. In mathematic it was X, but a variable can be anything you can imagine, but there are some rules:
+Variable is something which is phrased in English (please do not give variable names on your native language, easily became a very very, very bad practice) and has a meaning for you and anyone who reads the code later, and can find out what the hell is going on... And this variable has a value. In mathematic it was X, but a variable can be anything you can imagine, numbers, words or whole sentences (strings in programming), lists, etc.
 
-A variable can be for example a number:
-my_first_variable = 42
-later in a cycle you can use this variable you can increase, decrease, multiply, divide, anything.
+Now just play a bit with numbers:
+
 1.	Your first task is to create a variable, give them a value: 10. Then in a loop print out numbers from 10-100. 
 to do this first step, look through the lesson of [w3schools](https://www.w3schools.com/python/python_for_loops.asp) about loops. There is also a code runner, you can try it out yourself right there.
 There is more possible solution, try out as many as you can.
@@ -136,3 +136,5 @@ and others, but these will be enough for now 😊
 Read them through carefully and do the relating exercises on W3Schools!
 And in case it is not enough, and you would like to try out how can you solve problems with this knowledge, It is time to register on [CODEWARS](https://www.codewars.com/)
 you can search there by language, coding level, and by tags. Go on, register and do at least 1 kudo every day from now.
+
+    
