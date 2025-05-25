@@ -1,6 +1,6 @@
-#Lesson 3 basic programming structures
+# Lesson 3 basic programming structures
 
-##Conditional statements :
+## Conditional statements :
    These are selections, which helps decide what to do if a condition applies.
     - **"IF":**
         ```python
