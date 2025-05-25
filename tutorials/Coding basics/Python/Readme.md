@@ -21,8 +21,14 @@ OK, it not always helps. Go further.
 
 ## How this Python coding basics tutorial builds up:
 
-[Lesson 1](../Python/Lesson1.md) - Basic syntax of python and basic programming structures
-[Lesson 2](../Python/Lesson2.md) -  Learn how to install Python and how to write and run your first program from terminal
+[Lesson 1](../Python/Lesson1.md) - Basic syntax of python
+
+[Lesson 2](../Python/Lesson2.md) - Operations with variables
+
+[Lesson 3](../Python/Lesson3.md) - Basic programming structures
+
+[Lesson 4](../Python/Lesson4.md) - Installing Python
+
 
 # Online, free available full-course videos:
 
